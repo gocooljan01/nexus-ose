@@ -1,6 +1,6 @@
 #!/bin/sh
 
-: ${NEXUS_URL:=localhost:8081}
+: ${NEXUS_URL:=localhost:8080}
 
 set -x
 
